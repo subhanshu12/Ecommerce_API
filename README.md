@@ -10,7 +10,7 @@ To get started with the API, follow these steps:
 
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/erpankajk4/Ecommerce_API.git
+   git clone https://github.com/subhanshu12/Ecommerce_API
 
 2. Navigate to the project directory:
     cd ecommerce-platform-api
